@@ -9,7 +9,6 @@ function App_57() {
       <Todo_57 text="Learn SQL" />
       <Todo_57 text="Learn JS" />
       <Todo_57 text="Learn Git" />
-      <Todo_57 text="Learn Json" />
     </div>
   );
 }
